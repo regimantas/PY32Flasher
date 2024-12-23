@@ -7,6 +7,9 @@ Choose the appropriate version for your platform:
   - **Linux (AMD64):** [Download Py32Flasher](https://github.com/regimantas/PY32Flasher/releases/download/v1.0.0/Py32Flasher-linux-amd64)
   - **Linux (ARM):** [Download Py32Flasher](https://github.com/regimantas/PY32Flasher/releases/download/v1.0.0/Py32Flasher-linux-arm)
 
+## Screenshot
+![PY32 Flasher Screenshot](https://github.com/regimantas/PY32Flasher/blob/main/Ekrano%20kopija%202024-12-23%20205243.png?raw=true)
+
 ## Compatibility
 - Tested and verified with:
   - **PY32F002A** microcontroller
