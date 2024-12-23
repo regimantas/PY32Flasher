@@ -5,3 +5,7 @@ A lightweight and user-friendly tool for flashing PY32 microcontrollers using th
 - Tested and verified with:
   - **PY32F002A** microcontroller
   - STM32 Link V2 programmer
+  - **PY32 Arduino Core**:
+    - Repository: [PY32Duino Arduino Core](https://github.com/PY32Duino/Arduino-pack-json-ci/releases/download/Nightly/package_py32_index.json)
+    - Version: Nightly Build
+
