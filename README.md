@@ -12,8 +12,8 @@ Choose the appropriate version for your platform:
 
 ## Compatibility
 - Tested and verified with:
-  - **PY32F002A** microcontroller
-  - STM32 Link V2 programmer
+  - **PY32F002A and PY32F030K28T6** microcontrollers
+  - STM32 Link V2 programmer (For Windows users needed st link drivers)
   - **PY32 Arduino Core**:
     - To use the PY32 Arduino Core, add the following URL to the Arduino IDE Boards Manager:
       ```
