@@ -23,6 +23,8 @@ Choose the appropriate version for your platform:
       1. **File > Preferences**.
       2. Paste the above URL into the **Additional Board Manager URLs** field.
       3. Open the **Boards Manager** and install the PY32Duino package.
+- On WSL (Windows Subsystem for Linux) tested as working on Ubuntu Preview. Normal Ubuntu Have to old librarys.
+
 
 ## License
 Licensed under the MIT License. See the [LICENSE](https://github.com/regimantas/PY32Flasher/blob/main/LICENSE) file for more details.
