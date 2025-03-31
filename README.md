@@ -3,7 +3,7 @@ A lightweight and user-friendly tool for flashing PUYA PY32 microcontrollers usi
 
 ## Downloads
 Choose the appropriate version for your platform:
-  - **Windows (AMD64):** [Download Py32Flasher](https://github.com/regimantas/PY32Flasher/releases/download/v1.0.0/Py32Flasher-windows.exe)
+  - **Windows (AMD64):** [Download Py32Flasher](https://github.com/regimantas/PY32Flasher/releases/download/v1.0.1/Py32Flasher-windows.exe)
   - **Linux (AMD64):** [Download Py32Flasher](https://github.com/regimantas/PY32Flasher/releases/download/v1.0.0/Py32Flasher-linux-amd64)
   - **Linux (ARM):** [Download Py32Flasher](https://github.com/regimantas/PY32Flasher/releases/download/v1.0.0/Py32Flasher-linux-arm)
 
