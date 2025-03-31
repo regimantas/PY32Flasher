@@ -8,7 +8,7 @@ Choose the appropriate version for your platform:
   - **Linux (ARM):** [Download Py32Flasher](https://github.com/regimantas/PY32Flasher/releases/download/v1.0.0/Py32Flasher-linux-arm)
 
 ## Screenshot
-![PY32 Flasher Screenshot](https://github.com/regimantas/PY32Flasher/blob/main/Ekrano%20kopija%202024-12-23%20205243.png?raw=true)
+![PY32 Flasher Screenshot](https://github.com/regimantas/PY32Flasher/blob/main/Ekrano%20kopija%202025-03-31%20130332.png?raw=true)
 
 ## Compatibility
 - Tested and verified with:
